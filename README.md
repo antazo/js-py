@@ -1,6 +1,6 @@
 # js-py
 
-Testing the different JS libraries and frameworks under a .NET environment.
+Testing the different JS libraries and frameworks under a Pythonic environment.
 
 For this project we are going to use:
 
